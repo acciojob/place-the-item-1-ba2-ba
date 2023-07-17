@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.fcontainer {
+.holder {
 	width: 100%;
 	display:flex;
 	justify-content:space-between;
