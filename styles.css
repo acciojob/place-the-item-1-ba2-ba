@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.fcontainer {
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+	
+}
+#fbox1 {
+	height:100px;
+	width:100px;
+	background-color:green;
+	margin:20px
+}
+#fbox2 {
+	height:100px;
+	width:100px;
+	background-color:red;
+	margin:20px
+}
+#fbox3 {
+	height:100px;
+	width:100px;
+	background-color:blue;
+	margin:20px
+}
+
+.fbox {
+	display:flex;
+}
