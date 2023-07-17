@@ -8,22 +8,23 @@
 	
 }
 #fbox1 {
+	font:10px
 	height:100px;
 	width:100px;
 	background-color:green;
-	margin:20px
+	margin:2px
 }
 #fbox2 {
 	height:100px;
 	width:100px;
 	background-color:red;
-	margin:20px
+	margin:2px
 }
 #fbox3 {
 	height:100px;
 	width:100px;
 	background-color:blue;
-	margin:20px
+	margin:2px
 }
 
 .fbox {
