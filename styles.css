@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .fcontainer {
+	width: 100%;
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
@@ -8,25 +9,21 @@
 	
 }
 #fbox1 {
-	font:10px
 	height:100px;
 	width:100px;
 	background-color:green;
-	margin:2px
+	margin1px;
 }
 #fbox2 {
 	height:100px;
 	width:100px;
 	background-color:red;
-	margin:2px
+	margin1px;
 }
 #fbox3 {
 	height:100px;
 	width:100px;
 	background-color:blue;
-	margin:2px
+	margin1px;
 }
 
-.fbox {
-	display:flex;
-}
